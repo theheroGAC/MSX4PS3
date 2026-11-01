@@ -1,0 +1,44 @@
+MSX4PS3 - MSX / MSX2 / MSX2+ Emulator for PlayStation 3
+Port and PS3 Frontend by theheroGAC
+
+--------------------------------------------------------------------------------
+PORT & FRONTEND (MSX4PS3)
+--------------------------------------------------------------------------------
+Copyright (c) 2026 theheroGAC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+EMULATION CORE (fMSX / EMULib / Z80)
+--------------------------------------------------------------------------------
+fMSX, EMULib, and Z80 emulation cores are Copyright (c) Marat Fayzullin.
+fMSX is free for non-commercial and personal use.
+For more details, visit: https://fms.komkon.org/fMSX/
+
+--------------------------------------------------------------------------------
+C-BIOS
+--------------------------------------------------------------------------------
+C-BIOS is Copyright (c) 2002-2005 BouKiCHi, Manuel Bilderbeek, Maarten ter Huurne.
+Distributed under the 3-Clause BSD License.
+
+--------------------------------------------------------------------------------
+PSL1GHT & TOOLCHAIN
+--------------------------------------------------------------------------------
+PSL1GHT is an open source SDK for the PlayStation 3.
+Distributed under its respective open-source licenses.

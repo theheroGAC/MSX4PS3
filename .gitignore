@@ -1,0 +1,27 @@
+# PSL1GHT build outputs
+build/
+*.o
+*.elf
+*.self
+pkg/USRDIR/EBOOT.BIN
+pkg/PARAM.SFO
+
+# Package files (release assets)
+*.pkg
+
+# Windows & OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary scripts / logs
+*.log
+check_*.ps1
+
+# Optional OEM commercial ROMs (do not distribute copyrighted BIOS on GitHub)
+bios/*.ROM
+bios/*.rom
+pkg/USRDIR/bios/*.ROM
+pkg/USRDIR/bios/*.rom
+!pkg/USRDIR/bios/CARTS.SHA
+!pkg/USRDIR/bios/DEFAULT.FNT
